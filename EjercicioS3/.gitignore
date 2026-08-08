@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DS_Store
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
